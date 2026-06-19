@@ -1,0 +1,90 @@
+{
+  "brand": {
+    "name": "ToTheMax (TTM)",
+    "mantra": "Toujours plus loin. Toujours donner le maximum.",
+    "values": [
+      "depassement de soi",
+      "perseverance",
+      "authenticite",
+      "excellence",
+      "accompagnement client",
+      "satisfaction client"
+    ],
+    "tone": [
+      "chaleureux",
+      "professionnel",
+      "rassurant",
+      "oriente solution",
+      "empathique"
+    ]
+  },
+  "commercial_policy": {
+    "shipping": {
+      "carrier": "Colissimo",
+      "france_days": "3 a 4 jours ouvres",
+      "europe_days": "4 a 7 jours ouvres",
+      "free_shipping_threshold_eur": 30
+    },
+    "payment": {
+      "methods": [
+        "CB",
+        "PayPal",
+        "Klarna"
+      ],
+      "installment_4x_threshold_eur": 50
+    },
+    "returns": {
+      "free_returns": true,
+      "return_window_days": 30,
+      "exchange_possible": true,
+      "refund_delay_days_after_validation": "5 a 10 jours"
+    }
+  },
+  "documents": {
+    "faq_total_questions": 310,
+    "files": [
+      "01_FAQ_complete.json",
+      "02_CGV_completes.md",
+      "03_CGU_completes.md",
+      "04_Politique_de_livraison.md",
+      "05_Politique_de_retour.md",
+      "06_Politique_SAV.md",
+      "07_Politique_remboursement.md",
+      "08_Politique_confidentialite_RGPD.md",
+      "09_Politique_cookies.md",
+      "10_Charte_client.md",
+      "11_Guide_des_tailles.md",
+      "12_Guide_d_entretien.md",
+      "13_Mentions_legales_generiques.md",
+      "14_Procedure_reclamation.md",
+      "15_Procedure_colis_perdu.md",
+      "16_Procedure_colis_livre_non_recu.md",
+      "17_Procedure_echange_taille.md",
+      "18_Procedure_paiement_refuse.md",
+      "19_Procedure_fraude.md",
+      "20_Procedure_suppression_compte.md"
+    ]
+  },
+  "catalog": {
+    "total_products": 50,
+    "categories": {
+      "Chaussettes": 5,
+      "Debardeurs": 4,
+      "T-Shirts": 7,
+      "Shorts": 4,
+      "Joggings": 5,
+      "Sweats": 5,
+      "Pulls": 4,
+      "Calecons": 4,
+      "Vestes": 4,
+      "Manteaux": 3,
+      "Accessoires": 5
+    }
+  },
+  "cases": {
+    "sav": 150,
+    "livraison": 100,
+    "compte_client": 100,
+    "produit": 100
+  }
+}

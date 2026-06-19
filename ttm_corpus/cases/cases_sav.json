@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "SAV-0001",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 1. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0002",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 2. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0003",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 3. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0004",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 4. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0005",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 5. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0006",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 6. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0007",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 7. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0008",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 8. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0009",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 9. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0010",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 10. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0011",
+    "probleme": "je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 11. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0012",
+    "probleme": "je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 12. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0013",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 13. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0014",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 14. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0015",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 15. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0016",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 16. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0017",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 17. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0018",
+    "probleme": "je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 18. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0019",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 19. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0020",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 20. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0021",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 21. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0022",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 22. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0023",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 23. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0024",
+    "probleme": "je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 24. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0025",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 25. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0026",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 26. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0027",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 27. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0028",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 28. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0029",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 29. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0030",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 30. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0031",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 31. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0032",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 32. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0033",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 33. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0034",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 34. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0035",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 35. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0036",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 36. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0037",
+    "probleme": "je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 37. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0038",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 38. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0039",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 39. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0040",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 40. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0041",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 41. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0042",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 42. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0043",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 43. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0044",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 44. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0045",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 45. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0046",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 46. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0047",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 47. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0048",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 48. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0049",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 49. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0050",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 50. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0051",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 51. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0052",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 52. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0053",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 53. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0054",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 54. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0055",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 55. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0056",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 56. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0057",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 57. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0058",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 58. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0059",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 59. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0060",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 60. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0061",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 61. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0062",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 62. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0063",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 63. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0064",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 64. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0065",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 65. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0066",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 66. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0067",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 67. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0068",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 68. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0069",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 69. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0070",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 70. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0071",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 71. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0072",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 72. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0073",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 73. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0074",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 74. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0075",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 75. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0076",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 76. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0077",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 77. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0078",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 78. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0079",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 79. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0080",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 80. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0081",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 81. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0082",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 82. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0083",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 83. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0084",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 84. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0085",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 85. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0086",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 86. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0087",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 87. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0088",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 88. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0089",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 89. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0090",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 90. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0091",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 91. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0092",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 92. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0093",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 93. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0094",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 94. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0095",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 95. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0096",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 96. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0097",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 97. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0098",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 98. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0099",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 99. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0100",
+    "probleme": "je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 100. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0101",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 101. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0102",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 102. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0103",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 103. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0104",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 104. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0105",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 105. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0106",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 106. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0107",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 107. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0108",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 108. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0109",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 109. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0110",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 110. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0111",
+    "probleme": "Je veux returner un article hors télle.",
+    "contexte": "Canal: email/chat. Dossier sav numero 111. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0112",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 112. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0113",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 113. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0114",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 114. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0115",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 115. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0116",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 116. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0117",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 117. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0118",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 118. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0119",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 119. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0120",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 120. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0121",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 121. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0122",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 122. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0123",
+    "probleme": "je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 123. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0124",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 124. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0125",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 125. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0126",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 126. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0127",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 127. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0128",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 128. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0129",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 129. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0130",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 130. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0131",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 131. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0132",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 132. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0133",
+    "probleme": "Je demande un remboursement apres retour valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 133. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0134",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 134. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0135",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 135. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0136",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 136. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0137",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 137. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0138",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 138. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0139",
+    "probleme": "produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 139. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0140",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 140. Client en attente de reponse rapide.",
+    "solution": "Proposer echange prioritaire selon stock.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0141",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 141. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "SAV-0142",
+    "probleme": "Je n arrive pas a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 142. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0143",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 143. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0144",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 144. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0145",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 145. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0146",
+    "probleme": "Je veux retourner un article hors taille.",
+    "contexte": "Canal: email/chat. Dossier sav numero 146. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0147",
+    "probleme": "Je demande un rembursement apres retur valide.",
+    "contexte": "Canal: email/chat. Dossier sav numero 147. Client en attente de reponse rapide.",
+    "solution": "Accompagner le client pas a pas et ouvrir le dossier SAV manuellement.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "SAV-0148",
+    "probleme": "je n arrive pas a creer un ticket sav.",
+    "contexte": "Canal: email/chat. Dossier sav numero 148. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "SAV-0149",
+    "probleme": "Je n arrive pa a creer un ticket SAV.",
+    "contexte": "Canal: email/chat. Dossier sav numero 149. Client en attente de reponse rapide.",
+    "solution": "Envoyer etiquette retour gratuite puis controler le colis au depot.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "SAV-0150",
+    "probleme": "Produit recu avec defaut apparent.",
+    "contexte": "Canal: email/chat. Dossier sav numero 150. Client en attente de reponse rapide.",
+    "solution": "Valider le retour et declencher remboursement sous 5 a 10 jours.",
+    "niveau_emotionnel_client": "frustre"
+  }
+]

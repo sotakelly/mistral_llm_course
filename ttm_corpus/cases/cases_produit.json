@@ -1,0 +1,702 @@
+[
+  {
+    "id": "PRODUIT-0001",
+    "probleme": "demande de comparaison entre t-shirt performance 6 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 1. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0002",
+    "probleme": "question sur la composition matiere de t-shirt performance 6.",
+    "contexte": "Canal: email/chat. Dossier produit numero 2. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0003",
+    "probleme": "Demande de comparéson entre T-Shirt Vital 1 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 3. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0004",
+    "probleme": "Demande de comparaison entre Chaussette Pro 4 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 4. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0005",
+    "probleme": "Question sur la composition matiere de Chaussette Pro 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 5. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0006",
+    "probleme": "demande de disponibilite urgente pour manteaux pulse 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 6. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0007",
+    "probleme": "demande de comparaison entre jogging core 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 7. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0008",
+    "probleme": "Demande de comparaison entre Short Elevation 4 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 8. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0009",
+    "probleme": "demande de comparaison entre sweat zenith 2 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 9. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0010",
+    "probleme": "Question sur la composition matiere de T-Shirt Essential 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 10. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0011",
+    "probleme": "Demande de comparéson entre Debardeur Urban 1 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 11. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0012",
+    "probleme": "besoin de conseil taille pour manteaux motion 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 12. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0013",
+    "probleme": "Demande de comparéson entre Pull Impact 1 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 13. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0014",
+    "probleme": "Demande de comparaison entre T-Shirt Essential 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 14. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0015",
+    "probleme": "demande de comparaison entre manteaux pulse 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 15. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0016",
+    "probleme": "Question sur la composition matiere de Accessoire Flex 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 16. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0017",
+    "probleme": "Question sur la composition matiere de Short Elevation 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 17. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0018",
+    "probleme": "Besoin de conseil télle pur Sweat Signature 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 18. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0019",
+    "probleme": "Question sur la composition matiere de Jogging Drive 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 19. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0020",
+    "probleme": "Demande de comparéson entre Accessoire Performance 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 20. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0021",
+    "probleme": "Demande de comparéson entre Short Urban 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 21. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0022",
+    "probleme": "Demande de comparaison entre Jogging Core 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 22. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0023",
+    "probleme": "Demande de disponibilite urgente pour Short Pulse 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 23. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0024",
+    "probleme": "question sur la composition matiere de accessoire essential 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 24. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0025",
+    "probleme": "Besoin de conseil taille pour T-Shirt Core 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 25. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0026",
+    "probleme": "besoin de conseil taille pour accessoire pro 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 26. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0027",
+    "probleme": "demande de comparaison entre chaussette flex 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 27. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0028",
+    "probleme": "Besoin de conseil taille pour Jogging Drive 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 28. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0029",
+    "probleme": "Demande de disponibilite urgente pour Chaussette Impact 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 29. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0030",
+    "probleme": "Question sur la composition matiere de Calecon Performance 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 30. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0031",
+    "probleme": "Besoin de conseil taille pour T-Shirt Core 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 31. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0032",
+    "probleme": "Demande de comparéson entre T-Shirt Pro 7 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 32. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0033",
+    "probleme": "Besoin de conseil taille pour Sweat Sprint 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 33. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0034",
+    "probleme": "Demande de comparéson entre Calecon Flex 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 34. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0035",
+    "probleme": "Besoin de conseil taille pour Veste Motion 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 35. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0036",
+    "probleme": "Demande de disponibilite urgente pour Jogging Core 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 36. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0037",
+    "probleme": "Demande de disponibilite urgente pur Debardeur Urban 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 37. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0038",
+    "probleme": "besoin de conseil taille pour pull pro 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 38. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0039",
+    "probleme": "Besoin de conseil télle pur Short Signature 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 39. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0040",
+    "probleme": "question sur la composition matiere de t-shirt core 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 40. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0041",
+    "probleme": "Demande de disponibilite urgente pur Accessoire Pro 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 41. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0042",
+    "probleme": "Demande de comparaison entre Calecon Flex 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 42. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0043",
+    "probleme": "Demande de comparaison entre Jogging Core 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 43. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0044",
+    "probleme": "besoin de conseil taille pour chaussette pro 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 44. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0045",
+    "probleme": "Demande de disponibilite urgente pour Jogging Elevation 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 45. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0046",
+    "probleme": "Demande de disponibilite urgente pur Sweat Pulse 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 46. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0047",
+    "probleme": "Demande de comparaison entre Sweat Motion 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 47. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0048",
+    "probleme": "Besoin de conseil télle pur T-Shirt Pro 7.",
+    "contexte": "Canal: email/chat. Dossier produit numero 48. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0049",
+    "probleme": "Demande de comparéson entre Jogging Core 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 49. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0050",
+    "probleme": "Besoin de conseil télle pur Debardeur Elevation 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 50. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0051",
+    "probleme": "question sur la composition matiere de jogging drive 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 51. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0052",
+    "probleme": "Demande de disponibilite urgente pour T-Shirt Core 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 52. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0053",
+    "probleme": "Besoin de conseil télle pur Debardeur Elevation 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 53. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0054",
+    "probleme": "Question sur la composition matiere de Veste Flex 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 54. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0055",
+    "probleme": "Demande de disponibilite urgente pour Sweat Zenith 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 55. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0056",
+    "probleme": "demande de comparaison entre calecon flex 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 56. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0057",
+    "probleme": "Question sur la composition matiere de Short Signature 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 57. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0058",
+    "probleme": "Demande de comparéson entre Chaussette Flex 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 58. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0059",
+    "probleme": "Demande de disponibilite urgente pur Short Elevation 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 59. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0060",
+    "probleme": "Demande de disponibilite urgente pour T-Shirt Pro 7.",
+    "contexte": "Canal: email/chat. Dossier produit numero 60. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0061",
+    "probleme": "Question sur la composition matiere de Debardeur Drive 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 61. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0062",
+    "probleme": "Demande de disponibilite urgente pour Veste Sprint 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 62. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0063",
+    "probleme": "Demande de comparéson entre Sweat Motion 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 63. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0064",
+    "probleme": "Question sur la composition matiere de Pull Impact 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 64. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0065",
+    "probleme": "Demande de disponibilite urgente pur Short Urban 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 65. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0066",
+    "probleme": "Demande de disponibilite urgente pour Short Signature 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 66. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0067",
+    "probleme": "Demande de comparaison entre Calecon Sprint 4 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 67. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0068",
+    "probleme": "Question sur la composition matiere de Sweat Pulse 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 68. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0069",
+    "probleme": "Question sur la composition matiere de Debardeur Drive 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 69. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0070",
+    "probleme": "Demande de disponibilite urgente pour Accessoire Impact 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 70. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0071",
+    "probleme": "Demande de disponibilite urgente pour Veste Flex 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 71. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0072",
+    "probleme": "Besoin de conseil taille pour Calecon Performance 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 72. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0073",
+    "probleme": "demande de comparaison entre debardeur elevation 2 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 73. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0074",
+    "probleme": "Demande de disponibilite urgente pour Calecon Flex 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 74. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0075",
+    "probleme": "besoin de conseil taille pour chaussette impact 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 75. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0076",
+    "probleme": "Question sur la composition matiere de Sweat Pulse 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 76. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0077",
+    "probleme": "Besoin de conseil taille pour Jogging Vital 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 77. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0078",
+    "probleme": "besoin de conseil taille pour sweat zenith 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 78. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0079",
+    "probleme": "question sur la composition matiere de short elevation 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 79. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0080",
+    "probleme": "Demande de disponibilite urgente pour Jogging Vital 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 80. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0081",
+    "probleme": "Besoin de conseil taille pour Jogging Urban 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 81. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0082",
+    "probleme": "question sur la composition matiere de chaussette essential 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 82. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0083",
+    "probleme": "Demande de comparéson entre Pull Pro 4 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 83. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0084",
+    "probleme": "demande de comparaison entre sweat signature 5 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 84. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0085",
+    "probleme": "Demande de disponibilite urgente pour Veste Zenith 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 85. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0086",
+    "probleme": "Demande de disponibilite urgente pour Sweat Pulse 4.",
+    "contexte": "Canal: email/chat. Dossier produit numero 86. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0087",
+    "probleme": "Question sur la composition matiere de T-Shirt Essential 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 87. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0088",
+    "probleme": "Demande de comparéson entre Calecon Performance 1 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 88. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0089",
+    "probleme": "Besoin de conseil taille pour Sweat Signature 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 89. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0090",
+    "probleme": "Demande de disponibilite urgente pour Veste Flex 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 90. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0091",
+    "probleme": "Question sur la composition matiere de Jogging Vital 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 91. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0092",
+    "probleme": "question sur la composition matiere de manteaux motion 2.",
+    "contexte": "Canal: email/chat. Dossier produit numero 92. Client en attente de reponse rapide.",
+    "solution": "Donner recommandation basee sur guide des tailles et morphologie.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0093",
+    "probleme": "Demande de comparaison entre Debardeur Vital 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 93. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0094",
+    "probleme": "Demande de comparaison entre Jogging Drive 4 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 94. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0095",
+    "probleme": "demande de disponibilite urgente pour calecon flex 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 95. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0096",
+    "probleme": "Demande de comparaison entre Veste Zenith 3 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 96. Client en attente de reponse rapide.",
+    "solution": "Expliquer differences de coupe, matiere et usage.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "PRODUIT-0097",
+    "probleme": "Demande de comparaison entre Debardeur Drive 4 et un autre modele.",
+    "contexte": "Canal: email/chat. Dossier produit numero 97. Client en attente de reponse rapide.",
+    "solution": "Confirmer composition et conseils entretien officiels.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "PRODUIT-0098",
+    "probleme": "besoin de conseil taille pour jogging vital 3.",
+    "contexte": "Canal: email/chat. Dossier produit numero 98. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "PRODUIT-0099",
+    "probleme": "Demande de disponibilite urgente pour Jogging Core 5.",
+    "contexte": "Canal: email/chat. Dossier produit numero 99. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "PRODUIT-0100",
+    "probleme": "demande de disponibilite urgente pour accessoire impact 1.",
+    "contexte": "Canal: email/chat. Dossier produit numero 100. Client en attente de reponse rapide.",
+    "solution": "Informer stock en temps reel et alternatives proches.",
+    "niveau_emotionnel_client": "satisfait"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "file": "ttm_corpus\\ttm_dataset_instruction_500.json",
+  "total_examples": 500,
+  "category_counts": {
+    "SAV": 195,
+    "Produits": 150,
+    "Livraison": 70,
+    "Compte": 70,
+    "Aberrations": 15
+  },
+  "metadata_counts": {
+    "noise_true": 92,
+    "emotion_non_neutre": 80,
+    "negation_true": 80,
+    "multiturn_true": 150
+  },
+  "all_50_products_used": true,
+  "unique_products_used": 50
+}

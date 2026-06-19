@@ -1,0 +1,702 @@
+[
+  {
+    "id": "LIVRAISON-0001",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 1. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0002",
+    "probleme": "erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 2. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0003",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 3. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0004",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 4. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0005",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 5. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0006",
+    "probleme": "erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 6. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0007",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 7. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0008",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 8. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0009",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 9. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0010",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 10. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0011",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 11. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0012",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 12. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0013",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 13. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0014",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 14. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0015",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 15. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0016",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 16. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0017",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 17. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0018",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 18. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0019",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 19. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0020",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 20. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0021",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 21. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0022",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 22. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0023",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 23. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0024",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 24. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0025",
+    "probleme": "erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 25. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0026",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 26. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0027",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 27. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0028",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 28. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0029",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 29. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0030",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 30. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0031",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 31. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0032",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 32. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0033",
+    "probleme": "erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 33. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0034",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 34. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0035",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 35. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0036",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 36. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0037",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 37. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0038",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 38. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0039",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 39. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0040",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 40. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0041",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 41. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0042",
+    "probleme": "colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 42. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0043",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 43. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0044",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 44. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0045",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 45. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0046",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 46. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0047",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 47. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0048",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 48. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0049",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 49. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0050",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 50. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0051",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 51. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0052",
+    "probleme": "colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 52. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0053",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 53. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0054",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 54. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0055",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 55. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0056",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 56. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0057",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 57. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0058",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 58. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0059",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 59. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0060",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 60. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0061",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 61. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0062",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 62. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0063",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 63. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0064",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 64. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0065",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 65. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0066",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 66. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0067",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 67. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0068",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 68. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0069",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 69. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0070",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 70. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0071",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 71. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0072",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 72. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0073",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 73. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0074",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 74. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0075",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 75. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0076",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 76. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0077",
+    "probleme": "Colis marque livre més non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 77. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0078",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 78. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0079",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 79. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0080",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 80. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0081",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 81. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0082",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 82. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0083",
+    "probleme": "Erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 83. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0084",
+    "probleme": "erreur sur zone de livraison.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 84. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0085",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 85. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0086",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 86. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0087",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 87. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0088",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 88. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0089",
+    "probleme": "colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 89. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0090",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 90. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0091",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 91. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0092",
+    "probleme": "Colis en retard sans mise a jour.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 92. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0093",
+    "probleme": "Suivi Colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 93. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0094",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 94. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "LIVRAISON-0095",
+    "probleme": "suivi colissimo inaccessible.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 95. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0096",
+    "probleme": "Colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 96. Client en attente de reponse rapide.",
+    "solution": "Fournir un nouveau lien de suivi et assistance manuelle.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "LIVRAISON-0097",
+    "probleme": "Colis en retard sans mise a jur.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 97. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0098",
+    "probleme": "colis marque livre mais non recu.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 98. Client en attente de reponse rapide.",
+    "solution": "Corriger adresse puis reprogrammer expedition si possible.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "LIVRAISON-0099",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 99. Client en attente de reponse rapide.",
+    "solution": "Ouvrir enquete transporteur et informer le client toutes les 24h.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "LIVRAISON-0100",
+    "probleme": "Erreur sur zone de livréson.",
+    "contexte": "Canal: email/chat. Dossier livraison numero 100. Client en attente de reponse rapide.",
+    "solution": "Verifier preuve de livraison et lancer procedure colis livre non recu.",
+    "niveau_emotionnel_client": "satisfait"
+  }
+]

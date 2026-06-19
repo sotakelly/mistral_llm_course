@@ -1,0 +1,702 @@
+[
+  {
+    "id": "COMPTE-0001",
+    "probleme": "mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 1. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0002",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 2. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0003",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 3. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0004",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 4. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0005",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 5. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0006",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 6. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0007",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 7. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0008",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 8. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0009",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 9. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0010",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 10. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0011",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 11. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0012",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 12. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0013",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 13. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0014",
+    "probleme": "suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 14. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0015",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 15. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0016",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 16. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0017",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 17. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0018",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 18. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0019",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 19. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0020",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 20. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0021",
+    "probleme": "impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 21. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0022",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 22. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0023",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 23. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0024",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 24. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0025",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 25. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0026",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 26. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0027",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 27. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0028",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 28. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0029",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 29. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0030",
+    "probleme": "Mot de passe ublie et emél non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 30. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0031",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 31. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0032",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 32. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0033",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 33. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0034",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 34. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0035",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 35. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0036",
+    "probleme": "impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 36. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0037",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 37. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0038",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 38. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0039",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 39. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0040",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 40. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0041",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 41. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0042",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 42. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0043",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 43. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0044",
+    "probleme": "Mot de passe ublie et emél non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 44. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0045",
+    "probleme": "Mot de passe ublie et emél non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 45. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0046",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 46. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0047",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 47. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0048",
+    "probleme": "suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 48. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0049",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 49. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0050",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 50. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0051",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 51. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0052",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 52. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0053",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 53. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0054",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 54. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0055",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 55. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0056",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 56. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0057",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 57. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0058",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 58. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0059",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 59. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0060",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 60. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0061",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 61. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0062",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 62. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0063",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 63. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0064",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 64. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0065",
+    "probleme": "Mot de passe ublie et emél non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 65. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0066",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 66. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0067",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 67. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0068",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 68. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0069",
+    "probleme": "Mot de passe ublie et emél non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 69. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0070",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 70. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0071",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 71. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0072",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 72. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0073",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 73. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0074",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 74. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "agressif"
+  },
+  {
+    "id": "COMPTE-0075",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 75. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0076",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 76. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0077",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 77. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0078",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 78. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0079",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 79. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0080",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 80. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0081",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 81. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0082",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 82. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0083",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 83. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0084",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 84. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0085",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 85. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0086",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 86. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0087",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 87. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0088",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 88. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0089",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 89. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0090",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 90. Client en attente de reponse rapide.",
+    "solution": "Appliquer verification securite et forcer rotation des identifiants.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0091",
+    "probleme": "Suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 91. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0092",
+    "probleme": "demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 92. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0093",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 93. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0094",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 94. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0095",
+    "probleme": "suspicion d acces non autorise.",
+    "contexte": "Canal: email/chat. Dossier compte numero 95. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "confus"
+  },
+  {
+    "id": "COMPTE-0096",
+    "probleme": "Demande de suppression de compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 96. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "frustre"
+  },
+  {
+    "id": "COMPTE-0097",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 97. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0098",
+    "probleme": "Mot de passe oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 98. Client en attente de reponse rapide.",
+    "solution": "Verifier identite puis declencher suppression conforme RGPD.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0099",
+    "probleme": "Impossible de se connecter au compte.",
+    "contexte": "Canal: email/chat. Dossier compte numero 99. Client en attente de reponse rapide.",
+    "solution": "Mettre a jour email et confirmer par double validation.",
+    "niveau_emotionnel_client": "satisfait"
+  },
+  {
+    "id": "COMPTE-0100",
+    "probleme": "Mot de pase oublie et email non recu.",
+    "contexte": "Canal: email/chat. Dossier compte numero 100. Client en attente de reponse rapide.",
+    "solution": "Reinitialiser mot de passe et verifier dossier spam.",
+    "niveau_emotionnel_client": "confus"
+  }
+]

@@ -1,0 +1,2176 @@
+{
+  "title": "FAQ complete TTM",
+  "total_questions": 310,
+  "items": [
+    {
+      "id": "FAQ-0001",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Jogging Vital 3 ?",
+      "answer": "Les promotions sur Jogging Vital 3 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0002",
+      "category": "produit",
+      "question": "Puis-je retourner Jogging Urban 1 ?",
+      "answer": "Oui, Jogging Urban 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0003",
+      "category": "produit",
+      "question": "Est-ce que Veste Flex 1 convient a un usage quotidien ?",
+      "answer": "Oui, Veste Flex 1 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0004",
+      "category": "produit",
+      "question": "Puis-je retourner Debardeur Vital 3 ?",
+      "answer": "Oui, Debardeur Vital 3 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0005",
+      "category": "produit",
+      "question": "Comment entretenir Calecon Flex 3 ?",
+      "answer": "Pour Calecon Flex 3, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0006",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Short Pulse 1 ?",
+      "answer": "Les tailles disponibles pour Short Pulse 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0007",
+      "category": "produit",
+      "question": "Puis-je retourner Accessoire Impact 1 ?",
+      "answer": "Oui, Accessoire Impact 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0008",
+      "category": "produit",
+      "question": "Est-ce que Chaussette Impact 1 convient a un usage quotidien ?",
+      "answer": "Oui, Chaussette Impact 1 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0009",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Calecon Performance 1 ?",
+      "answer": "Les promotions sur Calecon Performance 1 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0010",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Accessoire Essential 2 ?",
+      "answer": "Les promotions sur Accessoire Essential 2 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0011",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Accessoire Performance 3 ?",
+      "answer": "Les promotions sur Accessoire Performance 3 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0012",
+      "category": "produit",
+      "question": "Le produit T-Shirt Impact 4 est-il disponible ?",
+      "answer": "La disponibilite de T-Shirt Impact 4 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0013",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Sweat Motion 3 ?",
+      "answer": "Les tailles disponibles pour Sweat Motion 3 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0014",
+      "category": "produit",
+      "question": "Le produit Manteaux Zenith 1 est-il disponible ?",
+      "answer": "La disponibilite de Manteaux Zenith 1 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0015",
+      "category": "produit",
+      "question": "Le produit Veste Sprint 2 est-il disponible ?",
+      "answer": "La disponibilite de Veste Sprint 2 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0016",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Manteaux Zenith 1 ?",
+      "answer": "Les tailles disponibles pour Manteaux Zenith 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0017",
+      "category": "produit",
+      "question": "Le produit Accessoire Essential 2 est-il disponible ?",
+      "answer": "La disponibilite de Accessoire Essential 2 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0018",
+      "category": "produit",
+      "question": "Le produit Pull Performance 3 est-il disponible ?",
+      "answer": "La disponibilite de Pull Performance 3 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0019",
+      "category": "produit",
+      "question": "Puis-je retourner Manteaux Zenith 1 ?",
+      "answer": "Oui, Manteaux Zenith 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0020",
+      "category": "produit",
+      "question": "Puis-je retourner Jogging Urban 1 ?",
+      "answer": "Oui, Jogging Urban 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0021",
+      "category": "produit",
+      "question": "Le produit Manteaux Pulse 3 est-il disponible ?",
+      "answer": "La disponibilite de Manteaux Pulse 3 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0022",
+      "category": "produit",
+      "question": "Comment entretenir Calecon Pro 2 ?",
+      "answer": "Pour Calecon Pro 2, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0023",
+      "category": "produit",
+      "question": "Puis-je retourner T-Shirt Impact 4 ?",
+      "answer": "Oui, T-Shirt Impact 4 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0024",
+      "category": "produit",
+      "question": "Puis-je retourner Manteaux Zenith 1 ?",
+      "answer": "Oui, Manteaux Zenith 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0025",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Manteaux Motion 2 ?",
+      "answer": "Les promotions sur Manteaux Motion 2 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0026",
+      "category": "produit",
+      "question": "Est-ce que T-Shirt Core 3 convient a un usage quotidien ?",
+      "answer": "Oui, T-Shirt Core 3 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0027",
+      "category": "produit",
+      "question": "Le produit Calecon Flex 3 est-il disponible ?",
+      "answer": "La disponibilite de Calecon Flex 3 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0028",
+      "category": "produit",
+      "question": "Est-ce que Sweat Sprint 1 convient a un usage quotidien ?",
+      "answer": "Oui, Sweat Sprint 1 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0029",
+      "category": "produit",
+      "question": "Le produit Chaussette Impact 1 est-il disponible ?",
+      "answer": "La disponibilite de Chaussette Impact 1 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0030",
+      "category": "produit",
+      "question": "Comment entretenir Short Urban 3 ?",
+      "answer": "Pour Short Urban 3, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0031",
+      "category": "produit",
+      "question": "Est-ce que Sweat Motion 3 convient a un usage quotidien ?",
+      "answer": "Oui, Sweat Motion 3 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0032",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Veste Flex 1 ?",
+      "answer": "Les promotions sur Veste Flex 1 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0033",
+      "category": "produit",
+      "question": "Puis-je retourner Jogging Urban 1 ?",
+      "answer": "Oui, Jogging Urban 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0034",
+      "category": "produit",
+      "question": "Puis-je retourner Sweat Pulse 4 ?",
+      "answer": "Oui, Sweat Pulse 4 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0035",
+      "category": "produit",
+      "question": "Comment entretenir Manteaux Motion 2 ?",
+      "answer": "Pour Manteaux Motion 2, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0036",
+      "category": "produit",
+      "question": "Puis-je retourner Pull Performance 3 ?",
+      "answer": "Oui, Pull Performance 3 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0037",
+      "category": "produit",
+      "question": "Comment entretenir Accessoire Performance 3 ?",
+      "answer": "Pour Accessoire Performance 3, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0038",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Manteaux Zenith 1 ?",
+      "answer": "Les tailles disponibles pour Manteaux Zenith 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0039",
+      "category": "produit",
+      "question": "Est-ce que Short Urban 3 convient a un usage quotidien ?",
+      "answer": "Oui, Short Urban 3 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0040",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Manteaux Zenith 1 ?",
+      "answer": "Les promotions sur Manteaux Zenith 1 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0041",
+      "category": "produit",
+      "question": "Le produit Veste Sprint 2 est-il disponible ?",
+      "answer": "La disponibilite de Veste Sprint 2 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0042",
+      "category": "produit",
+      "question": "Comment entretenir Debardeur Urban 1 ?",
+      "answer": "Pour Debardeur Urban 1, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0043",
+      "category": "produit",
+      "question": "Le produit Manteaux Motion 2 est-il disponible ?",
+      "answer": "La disponibilite de Manteaux Motion 2 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0044",
+      "category": "produit",
+      "question": "Comment entretenir T-Shirt Performance 6 ?",
+      "answer": "Pour T-Shirt Performance 6, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0045",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour T-Shirt Vital 1 ?",
+      "answer": "Les tailles disponibles pour T-Shirt Vital 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0046",
+      "category": "produit",
+      "question": "Comment entretenir Chaussette Performance 3 ?",
+      "answer": "Pour Chaussette Performance 3, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0047",
+      "category": "produit",
+      "question": "Est-ce que Pull Impact 1 convient a un usage quotidien ?",
+      "answer": "Oui, Pull Impact 1 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0048",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Accessoire Flex 5 ?",
+      "answer": "Les tailles disponibles pour Accessoire Flex 5 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0049",
+      "category": "produit",
+      "question": "Puis-je retourner Sweat Signature 5 ?",
+      "answer": "Oui, Sweat Signature 5 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0050",
+      "category": "produit",
+      "question": "Est-ce que Veste Zenith 3 convient a un usage quotidien ?",
+      "answer": "Oui, Veste Zenith 3 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0051",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur T-Shirt Impact 4 ?",
+      "answer": "Les promotions sur T-Shirt Impact 4 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0052",
+      "category": "produit",
+      "question": "Puis-je retourner Manteaux Pulse 3 ?",
+      "answer": "Oui, Manteaux Pulse 3 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0053",
+      "category": "produit",
+      "question": "Puis-je retourner Pull Essential 2 ?",
+      "answer": "Oui, Pull Essential 2 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0054",
+      "category": "produit",
+      "question": "Comment entretenir T-Shirt Pro 7 ?",
+      "answer": "Pour T-Shirt Pro 7, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0055",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Veste Motion 4 ?",
+      "answer": "Les promotions sur Veste Motion 4 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0056",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Chaussette Impact 1 ?",
+      "answer": "Les tailles disponibles pour Chaussette Impact 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0057",
+      "category": "produit",
+      "question": "Puis-je retourner Accessoire Flex 5 ?",
+      "answer": "Oui, Accessoire Flex 5 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0058",
+      "category": "produit",
+      "question": "Comment entretenir T-Shirt Performance 6 ?",
+      "answer": "Pour T-Shirt Performance 6, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0059",
+      "category": "produit",
+      "question": "Est-ce que Manteaux Pulse 3 convient a un usage quotidien ?",
+      "answer": "Oui, Manteaux Pulse 3 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0060",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Sweat Signature 5 ?",
+      "answer": "Les tailles disponibles pour Sweat Signature 5 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0061",
+      "category": "produit",
+      "question": "Comment entretenir Calecon Pro 2 ?",
+      "answer": "Pour Calecon Pro 2, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0062",
+      "category": "produit",
+      "question": "Puis-je retourner Debardeur Vital 3 ?",
+      "answer": "Oui, Debardeur Vital 3 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0063",
+      "category": "produit",
+      "question": "Puis-je retourner Debardeur Drive 4 ?",
+      "answer": "Oui, Debardeur Drive 4 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0064",
+      "category": "produit",
+      "question": "Est-ce que Manteaux Zenith 1 convient a un usage quotidien ?",
+      "answer": "Oui, Manteaux Zenith 1 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0065",
+      "category": "produit",
+      "question": "Est-ce que Calecon Pro 2 convient a un usage quotidien ?",
+      "answer": "Oui, Calecon Pro 2 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0066",
+      "category": "produit",
+      "question": "Puis-je retourner Jogging Urban 1 ?",
+      "answer": "Oui, Jogging Urban 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0067",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Veste Sprint 2 ?",
+      "answer": "Les promotions sur Veste Sprint 2 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0068",
+      "category": "produit",
+      "question": "Puis-je retourner Pull Performance 3 ?",
+      "answer": "Oui, Pull Performance 3 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0069",
+      "category": "produit",
+      "question": "Puis-je retourner Calecon Pro 2 ?",
+      "answer": "Oui, Calecon Pro 2 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0070",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur T-Shirt Drive 2 ?",
+      "answer": "Les promotions sur T-Shirt Drive 2 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0071",
+      "category": "produit",
+      "question": "Puis-je retourner Pull Impact 1 ?",
+      "answer": "Oui, Pull Impact 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0072",
+      "category": "produit",
+      "question": "Comment entretenir Short Pulse 1 ?",
+      "answer": "Pour Short Pulse 1, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0073",
+      "category": "produit",
+      "question": "Le produit Veste Zenith 3 est-il disponible ?",
+      "answer": "La disponibilite de Veste Zenith 3 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0074",
+      "category": "produit",
+      "question": "Est-ce que Accessoire Flex 5 convient a un usage quotidien ?",
+      "answer": "Oui, Accessoire Flex 5 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0075",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Pull Essential 2 ?",
+      "answer": "Les promotions sur Pull Essential 2 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0076",
+      "category": "produit",
+      "question": "Le produit T-Shirt Pro 7 est-il disponible ?",
+      "answer": "La disponibilite de T-Shirt Pro 7 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0077",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Sweat Pulse 4 ?",
+      "answer": "Les tailles disponibles pour Sweat Pulse 4 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0078",
+      "category": "produit",
+      "question": "Le produit Accessoire Impact 1 est-il disponible ?",
+      "answer": "La disponibilite de Accessoire Impact 1 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0079",
+      "category": "produit",
+      "question": "Le produit T-Shirt Pro 7 est-il disponible ?",
+      "answer": "La disponibilite de T-Shirt Pro 7 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0080",
+      "category": "produit",
+      "question": "Le produit Jogging Elevation 2 est-il disponible ?",
+      "answer": "La disponibilite de Jogging Elevation 2 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0081",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Calecon Performance 1 ?",
+      "answer": "Les tailles disponibles pour Calecon Performance 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0082",
+      "category": "produit",
+      "question": "Comment entretenir Debardeur Drive 4 ?",
+      "answer": "Pour Debardeur Drive 4, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0083",
+      "category": "produit",
+      "question": "Puis-je retourner T-Shirt Performance 6 ?",
+      "answer": "Oui, T-Shirt Performance 6 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0084",
+      "category": "produit",
+      "question": "Comment entretenir Manteaux Pulse 3 ?",
+      "answer": "Pour Manteaux Pulse 3, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0085",
+      "category": "produit",
+      "question": "Comment entretenir Accessoire Impact 1 ?",
+      "answer": "Pour Accessoire Impact 1, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0086",
+      "category": "produit",
+      "question": "Puis-je retourner Chaussette Flex 5 ?",
+      "answer": "Oui, Chaussette Flex 5 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0087",
+      "category": "produit",
+      "question": "Le produit Sweat Zenith 2 est-il disponible ?",
+      "answer": "La disponibilite de Sweat Zenith 2 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0088",
+      "category": "produit",
+      "question": "Puis-je retourner Calecon Performance 1 ?",
+      "answer": "Oui, Calecon Performance 1 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0089",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Sweat Zenith 2 ?",
+      "answer": "Les tailles disponibles pour Sweat Zenith 2 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0090",
+      "category": "produit",
+      "question": "Puis-je retourner T-Shirt Essential 5 ?",
+      "answer": "Oui, T-Shirt Essential 5 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0091",
+      "category": "produit",
+      "question": "Est-ce que Jogging Core 5 convient a un usage quotidien ?",
+      "answer": "Oui, Jogging Core 5 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0092",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Manteaux Pulse 3 ?",
+      "answer": "Les tailles disponibles pour Manteaux Pulse 3 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0093",
+      "category": "produit",
+      "question": "Est-ce que Accessoire Pro 4 convient a un usage quotidien ?",
+      "answer": "Oui, Accessoire Pro 4 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0094",
+      "category": "produit",
+      "question": "Puis-je retourner Jogging Core 5 ?",
+      "answer": "Oui, Jogging Core 5 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0095",
+      "category": "produit",
+      "question": "Le produit Chaussette Impact 1 est-il disponible ?",
+      "answer": "La disponibilite de Chaussette Impact 1 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0096",
+      "category": "produit",
+      "question": "Puis-je retourner Short Elevation 4 ?",
+      "answer": "Oui, Short Elevation 4 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0097",
+      "category": "produit",
+      "question": "Est-ce que Sweat Zenith 2 convient a un usage quotidien ?",
+      "answer": "Oui, Sweat Zenith 2 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0098",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Accessoire Performance 3 ?",
+      "answer": "Les promotions sur Accessoire Performance 3 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0099",
+      "category": "produit",
+      "question": "Est-ce que Calecon Performance 1 convient a un usage quotidien ?",
+      "answer": "Oui, Calecon Performance 1 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0100",
+      "category": "produit",
+      "question": "Puis-je retourner T-Shirt Performance 6 ?",
+      "answer": "Oui, T-Shirt Performance 6 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0101",
+      "category": "produit",
+      "question": "Le produit T-Shirt Performance 6 est-il disponible ?",
+      "answer": "La disponibilite de T-Shirt Performance 6 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0102",
+      "category": "produit",
+      "question": "Puis-je retourner Sweat Motion 3 ?",
+      "answer": "Oui, Sweat Motion 3 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0103",
+      "category": "produit",
+      "question": "Puis-je retourner Chaussette Essential 2 ?",
+      "answer": "Oui, Chaussette Essential 2 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0104",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Jogging Elevation 2 ?",
+      "answer": "Les promotions sur Jogging Elevation 2 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0105",
+      "category": "produit",
+      "question": "Puis-je retourner Manteaux Motion 2 ?",
+      "answer": "Oui, Manteaux Motion 2 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0106",
+      "category": "produit",
+      "question": "Comment entretenir Accessoire Essential 2 ?",
+      "answer": "Pour Accessoire Essential 2, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0107",
+      "category": "produit",
+      "question": "Comment entretenir Sweat Signature 5 ?",
+      "answer": "Pour Sweat Signature 5, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0108",
+      "category": "produit",
+      "question": "Est-ce que Veste Sprint 2 convient a un usage quotidien ?",
+      "answer": "Oui, Veste Sprint 2 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0109",
+      "category": "produit",
+      "question": "Puis-je retourner Chaussette Essential 2 ?",
+      "answer": "Oui, Chaussette Essential 2 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0110",
+      "category": "produit",
+      "question": "Est-ce que Calecon Sprint 4 convient a un usage quotidien ?",
+      "answer": "Oui, Calecon Sprint 4 est concu pour un usage quotidien confortable.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0111",
+      "category": "produit",
+      "question": "Quelles tailles existe-t-il pour Manteaux Zenith 1 ?",
+      "answer": "Les tailles disponibles pour Manteaux Zenith 1 sont affichees sur la fiche produit en temps reel.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0112",
+      "category": "produit",
+      "question": "Y a-t-il des promotions sur Debardeur Urban 1 ?",
+      "answer": "Les promotions sur Debardeur Urban 1 sont visibles directement sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0113",
+      "category": "produit",
+      "question": "Comment entretenir Sweat Motion 3 ?",
+      "answer": "Pour Sweat Motion 3, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0114",
+      "category": "produit",
+      "question": "Comment entretenir Sweat Signature 5 ?",
+      "answer": "Pour Sweat Signature 5, lavage 30C, cycle doux et sechage a l air libre.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0115",
+      "category": "produit",
+      "question": "Le produit Chaussette Pro 4 est-il disponible ?",
+      "answer": "La disponibilite de Chaussette Pro 4 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0116",
+      "category": "produit",
+      "question": "Le produit Jogging Core 5 est-il disponible ?",
+      "answer": "La disponibilite de Jogging Core 5 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0117",
+      "category": "produit",
+      "question": "Puis-je retourner T-Shirt Essential 5 ?",
+      "answer": "Oui, T-Shirt Essential 5 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0118",
+      "category": "produit",
+      "question": "Le produit Jogging Urban 1 est-il disponible ?",
+      "answer": "La disponibilite de Jogging Urban 1 est mise a jour en temps reel sur la fiche produit.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0119",
+      "category": "produit",
+      "question": "Puis-je retourner Accessoire Pro 4 ?",
+      "answer": "Oui, Accessoire Pro 4 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0120",
+      "category": "produit",
+      "question": "Puis-je retourner Short Signature 2 ?",
+      "answer": "Oui, Short Signature 2 peut etre retourne gratuitement sous 30 jours.",
+      "source": "FAQ Produit.pdf"
+    },
+    {
+      "id": "FAQ-0121",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0122",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0123",
+      "category": "livraison",
+      "question": "Comment suivre ma commande ?",
+      "answer": "Un numero de suivi Colissimo est envoye des l expedition.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0124",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0125",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0126",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0127",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0128",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0129",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0130",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0131",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0132",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0133",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0134",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0135",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0136",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0137",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0138",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0139",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0140",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0141",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0142",
+      "category": "livraison",
+      "question": "Comment suivre ma commande ?",
+      "answer": "Un numero de suivi Colissimo est envoye des l expedition.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0143",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0144",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0145",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0146",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0147",
+      "category": "livraison",
+      "question": "Comment suivre ma commande ?",
+      "answer": "Un numero de suivi Colissimo est envoye des l expedition.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0148",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0149",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0150",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0151",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0152",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0153",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0154",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0155",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0156",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0157",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0158",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0159",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0160",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0161",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0162",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0163",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0164",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0165",
+      "category": "livraison",
+      "question": "Comment suivre ma commande ?",
+      "answer": "Un numero de suivi Colissimo est envoye des l expedition.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0166",
+      "category": "livraison",
+      "question": "Comment suivre ma commande ?",
+      "answer": "Un numero de suivi Colissimo est envoye des l expedition.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0167",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0168",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0169",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0170",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0171",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0172",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0173",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0174",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0175",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0176",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0177",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0178",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0179",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0180",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0181",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0182",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0183",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0184",
+      "category": "livraison",
+      "question": "Comment suivre ma commande ?",
+      "answer": "Un numero de suivi Colissimo est envoye des l expedition.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0185",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0186",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0187",
+      "category": "livraison",
+      "question": "Quel est le delai de livraison en France ?",
+      "answer": "Les commandes France sont livrees sous 3 a 4 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0188",
+      "category": "livraison",
+      "question": "Que faire si mon colis est en retard ?",
+      "answer": "Contactez le SAV avec votre numero de commande pour ouvrir une verification transporteur.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0189",
+      "category": "livraison",
+      "question": "Livrez-vous hors Europe ?",
+      "answer": "Les commandes Europe sont livrees sous 4 a 7 jours ouvres via Colissimo.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0190",
+      "category": "livraison",
+      "question": "La livraison est-elle offerte ?",
+      "answer": "Oui, la livraison est offerte des 30 EUR d achat.",
+      "source": "Politique de Livraison.pdf"
+    },
+    {
+      "id": "FAQ-0191",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0192",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0193",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0194",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0195",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0196",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0197",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0198",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0199",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0200",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0201",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0202",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0203",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0204",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0205",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0206",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0207",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0208",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0209",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0210",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0211",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0212",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0213",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0214",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0215",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0216",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0217",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0218",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0219",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0220",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0221",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0222",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0223",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0224",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0225",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0226",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0227",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0228",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0229",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0230",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0231",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0232",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0233",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0234",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0235",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0236",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0237",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0238",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0239",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0240",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0241",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0242",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0243",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0244",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0245",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0246",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0247",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0248",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0249",
+      "category": "SAV",
+      "question": "Comment faire une reclamation SAV ?",
+      "answer": "La reclamation se fait via le formulaire SAV avec numero de commande et justificatifs.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0250",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0251",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0252",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0253",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0254",
+      "category": "SAV",
+      "question": "Que couvre la garantie legale ?",
+      "answer": "La garantie legale couvre les defauts de conformite dans les conditions prevues.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0255",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0256",
+      "category": "SAV",
+      "question": "Puis-je echanger une taille ?",
+      "answer": "Oui, l echange de taille est possible sous 30 jours.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0257",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0258",
+      "category": "SAV",
+      "question": "Puis-je retourner un article ?",
+      "answer": "Oui, vous disposez de 30 jours pour retourner un article.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0259",
+      "category": "SAV",
+      "question": "En combien de temps suis-je rembourse ?",
+      "answer": "Le remboursement intervient sous 5 a 10 jours apres validation du retour.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0260",
+      "category": "SAV",
+      "question": "Le retour est-il gratuit ?",
+      "answer": "Oui, les retours sont gratuits selon la procedure retour TTM.",
+      "source": "Politique de Retour et Remboursement.pdf"
+    },
+    {
+      "id": "FAQ-0261",
+      "category": "compte",
+      "question": "Comment supprimer mon compte ?",
+      "answer": "La suppression se demande depuis le support avec verification d identite.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0262",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0263",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0264",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0265",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0266",
+      "category": "compte",
+      "question": "Comment supprimer mon compte ?",
+      "answer": "La suppression se demande depuis le support avec verification d identite.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0267",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0268",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0269",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0270",
+      "category": "compte",
+      "question": "Comment supprimer mon compte ?",
+      "answer": "La suppression se demande depuis le support avec verification d identite.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0271",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0272",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0273",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0274",
+      "category": "compte",
+      "question": "Comment supprimer mon compte ?",
+      "answer": "La suppression se demande depuis le support avec verification d identite.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0275",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0276",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0277",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0278",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0279",
+      "category": "compte",
+      "question": "Comment creer un compte ?",
+      "answer": "Cliquez sur Creer un compte puis renseignez vos informations de base.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0280",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0281",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0282",
+      "category": "compte",
+      "question": "Comment creer un compte ?",
+      "answer": "Cliquez sur Creer un compte puis renseignez vos informations de base.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0283",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0284",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0285",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0286",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0287",
+      "category": "compte",
+      "question": "Comment supprimer mon compte ?",
+      "answer": "La suppression se demande depuis le support avec verification d identite.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0288",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0289",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0290",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0291",
+      "category": "compte",
+      "question": "Comment securiser mon compte client ?",
+      "answer": "Activez un mot de passe fort et evitez de partager vos identifiants.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0292",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0293",
+      "category": "compte",
+      "question": "Comment creer un compte ?",
+      "answer": "Cliquez sur Creer un compte puis renseignez vos informations de base.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0294",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0295",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0296",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0297",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0298",
+      "category": "compte",
+      "question": "J ai oublie mon mot de passe, que faire ?",
+      "answer": "Utilisez Mot de passe oublie pour recevoir un lien de reinitialisation.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0299",
+      "category": "compte",
+      "question": "Comment modifier mon adresse email ?",
+      "answer": "Modifiez votre adresse email depuis votre espace client, rubrique profil.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0300",
+      "category": "compte",
+      "question": "Comment creer un compte ?",
+      "answer": "Cliquez sur Creer un compte puis renseignez vos informations de base.",
+      "source": "FAQ - Questions frequentes.pdf"
+    },
+    {
+      "id": "FAQ-0301",
+      "category": "realite_utilisateur",
+      "question": "ou est mon coli",
+      "answer": "Si votre colis semble bloque, envoyez votre numero de commande au SAV pour verification Colissimo.",
+      "source": "Procedure colis perdu"
+    },
+    {
+      "id": "FAQ-0302",
+      "category": "realite_utilisateur",
+      "question": "jarrive pa a payer",
+      "answer": "Verifiez votre methode de paiement (CB, PayPal, Klarna) et reessayez. Si besoin, contactez le support paiement.",
+      "source": "Procedure paiement refuse"
+    },
+    {
+      "id": "FAQ-0303",
+      "category": "realite_utilisateur",
+      "question": "j veu retourne ma comand",
+      "answer": "Le retour est gratuit sous 30 jours. Au dela, contactez le SAV pour etude de votre situation.",
+      "source": "Politique de Retour"
+    },
+    {
+      "id": "FAQ-0304",
+      "category": "realite_utilisateur",
+      "question": "j ai pas recu mon colis mais c est marque livre",
+      "answer": "Si votre colis semble bloque, envoyez votre numero de commande au SAV pour verification Colissimo.",
+      "source": "Procedure colis perdu"
+    },
+    {
+      "id": "FAQ-0305",
+      "category": "realite_utilisateur",
+      "question": "jcomprend pas pourquoi ca marche pas",
+      "answer": "Nous allons vous aider. Donnez votre numero de commande pour une reponse precise.",
+      "source": "Charte client"
+    },
+    {
+      "id": "FAQ-0306",
+      "category": "realite_utilisateur",
+      "question": "si je retourne pas dans 30j je peux quand meme?",
+      "answer": "Le retour est gratuit sous 30 jours. Au dela, contactez le SAV pour etude de votre situation.",
+      "source": "Politique de Retour"
+    },
+    {
+      "id": "FAQ-0307",
+      "category": "realite_utilisateur",
+      "question": "vous livrez ou pas en belgik ?",
+      "answer": "Nous allons vous aider. Donnez votre numero de commande pour une reponse precise.",
+      "source": "Charte client"
+    },
+    {
+      "id": "FAQ-0308",
+      "category": "realite_utilisateur",
+      "question": "pourquoi j ai pas de suivie",
+      "answer": "Nous allons vous aider. Donnez votre numero de commande pour une reponse precise.",
+      "source": "Charte client"
+    },
+    {
+      "id": "FAQ-0309",
+      "category": "realite_utilisateur",
+      "question": "je pe echanger taille?",
+      "answer": "Nous allons vous aider. Donnez votre numero de commande pour une reponse precise.",
+      "source": "Charte client"
+    },
+    {
+      "id": "FAQ-0310",
+      "category": "realite_utilisateur",
+      "question": "pas possible de me connecter wsh",
+      "answer": "Utilisez la reinitialisation de mot de passe, puis contactez le support compte en cas de blocage.",
+      "source": "Procedure suppression de compte"
+    }
+  ]
+}
